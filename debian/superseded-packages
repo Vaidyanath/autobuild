@@ -1,3 +1,4 @@
+cinder
 ironic-common
 python-boto
 python-cinderclient
