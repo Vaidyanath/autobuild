@@ -1,4 +1,8 @@
-cinder
+cinder-api
+cinder-backup
+cinder-common
+cinder-scheduler
+python-cinder
 ironic-common
 python-boto
 python-cinderclient
