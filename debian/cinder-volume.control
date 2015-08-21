@@ -1,6 +1,6 @@
-Package: cinder-api
+Package: cinder-volume
 Architecture: all
 Depends: rjil-cicd (=${binary:Version})
-Description: cinder-api package
- Automatically generated cinder-api package
+Description: cinder-volume package
+ Automatically generated cinder-volume package
 

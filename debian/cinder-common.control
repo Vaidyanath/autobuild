@@ -1,6 +1,6 @@
-Package: cinder-api
+Package: cinder-common
 Architecture: all
 Depends: rjil-cicd (=${binary:Version})
-Description: cinder-api package
- Automatically generated cinder-api package
+Description: cinder-common package
+ Automatically generated cinder-common package
 
