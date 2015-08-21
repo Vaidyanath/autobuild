@@ -2,6 +2,7 @@ cinder-api
 cinder-backup
 cinder-common
 cinder-scheduler
+cinder-volume
 python-cinder
 ironic-common
 python-boto
