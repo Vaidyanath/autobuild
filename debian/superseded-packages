@@ -45,8 +45,8 @@ python-proliantutils
 python-rtslib-fb
 python-retrying
 python-six
-python-sqlalchemy
-python-sqlalchemy-migrate
+sqlalchemy
+sqlalchemy-migrate
 python-swiftclient
 python-suds-jurko
 python-tempest-lib
