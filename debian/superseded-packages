@@ -6,6 +6,7 @@ cinder-volume
 python-cinder
 ironic-common
 python-boto
+python-barbicanclient
 python-cinderclient
 python-glanceclient
 python-ironic
@@ -16,6 +17,7 @@ python-msgpack
 python-netifaces
 python-neutronclient
 python-novaclient
+python-osprofiler
 python-oslo.concurrency
 python-oslo-concurrency
 python-oslo-config
@@ -27,16 +29,26 @@ python-oslo.i18n
 python-oslo-i18n
 python-oslo.log
 python-oslo.messaging
+python-oslo.middleware
+python-oslo.reports
+python-oslo.policy
+python-pycrypto
 python-oslo-serialization
 python-oslo.serialization
+python-oslo.versionedobjects
+python-oslo.service
 python-oslo-utils
 python-oslo.utils
 python-paramiko
 python-posix-ipc
 python-proliantutils
+python-rtslib-fb
 python-retrying
 python-six
+python-sqlalchemy
+python-sqlalchemy-migrate
 python-swiftclient
+python-suds-jurko
 python-tempest-lib
 python-tempest
 python-tz
@@ -44,3 +56,4 @@ python-testtools
 python-websockify
 python-stevedore
 python-os-testr
+python-os-brick
